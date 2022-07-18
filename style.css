@@ -1,5 +1,5 @@
 body {
-    font-family: 'Montserrat';
+    font-family: 'Montserrat' !important;
     margin: 0 auto;
     color: rgb(42, 42, 42);
 }
